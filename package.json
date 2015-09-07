@@ -1,0 +1,25 @@
+{
+  "name": "mini1-todolist",
+  "version": "1.0.0",
+  "description": "Mini Project 1: Todo List ============",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "jsx-loader": "^0.13.2",
+    "react": "^0.13.3",
+    "webpack": "^1.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/findjanice/mini1-todolist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/findjanice/mini1-todolist/issues"
+  },
+  "homepage": "https://github.com/findjanice/mini1-todolist#readme"
+}
